@@ -19,6 +19,9 @@ The **Smart Photo & File Organizer** solves the chaos of cluttered download fold
 *   **Duplicate Detection**: Employs cryptographic hash validation to detect and isolate duplicates.
 *   **Modern Desktop Interface**: Crisp High-DPI UI scaling on Windows with real-time progress bars and status logging.
 
+> [!IMPORTANT]
+> **Backup Recommended**: It is always a good practice to keep a backup of your files before running organization workflows for extra safety.
+
 ---
 
 ## 🏗️ Core Architecture & How It Works
