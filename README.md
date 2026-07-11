@@ -1,4 +1,4 @@
-# ⚡ Smart Photo & File Organizer
+#  Smart Photo & File Organizer
 
 ![Python Version](https://img.shields.io/badge/Python-3.13%2B-blue?logo=python&logoColor=white)
 ![OS Compatibility](https://img.shields.io/badge/OS-Windows%20%7C%20Linux%20%7C%20macOS-success?logo=windows&logoColor=white)
@@ -9,7 +9,7 @@ A modern, high-performance desktop application designed to catalog files and med
 
 ---
 
-## 📖 Overview
+## Overview
 
 The **Smart Photo & File Organizer** solves the chaos of cluttered download folders and unsorted camera rolls. It automatically scans any chosen directory and groups files by their metadata.
 
@@ -24,7 +24,7 @@ The **Smart Photo & File Organizer** solves the chaos of cluttered download fold
 
 ---
 
-## 🏗️ Core Architecture & How It Works
+## Core Architecture & How It Works
 
 This application is built for stability, data integrity, and non-blocking performance:
 
@@ -35,7 +35,7 @@ This application is built for stability, data integrity, and non-blocking perfor
 
 ---
 
-## 📥 Download & Installation (Pre-compiled Binary)
+## Download & Installation (Pre-compiled Binary)
 
 For users who want to run the application immediately without installing Python:
 
@@ -46,7 +46,7 @@ For users who want to run the application immediately without installing Python:
 
 ---
 
-## 💻 Developer Setup & Source Code Execution
+## Developer Setup & Source Code Execution
 
 To run the application from source or contribute to development, follow these steps:
 
@@ -86,7 +86,7 @@ To run the application from source or contribute to development, follow these st
 
 ---
 
-## 🛡️ Security & Validation Audit
+## Security & Validation Audit
 
 This codebase has undergone a comprehensive production-grade safety review. 
 *   No destructive deletion routines (such as `os.remove` or `shutil.rmtree`) exist in the application pipeline.
@@ -94,6 +94,6 @@ This codebase has undergone a comprehensive production-grade safety review.
 
 ---
 
-## 👤 Contributor
+## Contributor
 
 *   **Alok Muranal** - [arm-x-Dev](https://github.com/arm-x-Dev)
